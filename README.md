@@ -26,13 +26,13 @@ This is a simple Currency Exchange App built using React and Vite. It helps user
 1. **Download the project**
 
    ```sh
-   git clone https://github.com/yourusername/currency-exchange-app.git
+   git clone https://github.com/Hammadzahoor/Currency-Exchange-App-using-React.git
    ```
 
 2. **Go to the project folder**
 
    ```sh
-   cd currency-exchange-app
+   cd Currency-Exchange-App-using-React
    ```
 
 3. **Install required packages**
