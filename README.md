@@ -57,11 +57,3 @@ To prepare the app for deployment, run:
 ```sh
 npm run build
 ```
-
-## Want to Help?
-
-If you find any issues or want to improve this app, feel free to contribute by opening an issue or sending a pull request!
-
-## License
-
-This project is open-source and uses the MIT License.
