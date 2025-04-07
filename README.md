@@ -2,6 +2,8 @@
 
 This is a simple Currency Exchange App built using React and Vite. It helps users convert one currency to another using live exchange rates.
 
+![Currency Exchagne App](</currency exchange.png>)
+
 ## Features
 
 - Convert currencies in real-time
